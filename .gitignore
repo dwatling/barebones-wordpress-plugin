@@ -1,0 +1,13 @@
+# IDE Files
+.idea/
+**/*.iml
+
+# Maven build
+target/
+
+# Test run
+phantomjsdriver.log
+
+# Miscellaneous
+.frontend
+node_modules/
